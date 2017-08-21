@@ -14,7 +14,8 @@ SELECT DISTINCT ?label ?gender ?category
      ?award nobel:category ?category .
 }
 """
-sparql = SPARQLWrapper.SPARQLWrapper("http://data.nobelprize.org/sparql",returnFormat=SPARQLWrapper.JSON)
+sparql = SPARQLWrapper.SPARQLWrapper("http://data.nobelprize.org/sparql",
+        returnFormat=SPARQLWrapper.JSON)
 sparql.setQuery(queryString)
 ret = sparql.query()
 

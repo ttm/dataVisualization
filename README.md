@@ -1,11 +1,19 @@
 # dataVisualization
-Notes and scripts for the grad and udergrad classes on data visualization that I am collaborating with
+Notes and scripts for the grad and undergrad classes on data visualization that I am collaborating with
 
 ### content
 
 * slides/atividade1.md
-has slides for the first exposition on data mining.
+has "slides" for the first exposition on data mining.
 
+* src/\*
+is where the Python scripts are.
+
+* figs/\*
+are figures.
+
+* data/\*
+are data files. 
 
 
 ### data sources

@@ -4,15 +4,20 @@
 
 
 
-
 Disciplinas: SCC5836 e SCC0252 (Visualização Computacional)
 
+ICMC/USP
+Profa. Dra. Maria Cristina Ferreira de Oliveira
+Dr. Renato Fabbri (Colaborador)
+Evandro Ortigosa  (Colaborador/Estagiário)
+
+::: renato.fabbri@gmail.com
 
 Aula 3
-
-
 Atividade 1 - sobre dados e mineração de dados
 
+repositório: https://github.com/ttm/dataVisualization
+video no youtube (https://youtu.be/blUrcE_B06I)
 
 
 
@@ -96,8 +101,8 @@ faço uma relatoria, em geral na forma de um artigo/ensaio.
 * Terminal sempre aberto (grep, find, mkdir, ls, df -H, du etc)
 
 * Software especializado em alguns casos
-  - Gephi
-  - Audacity
+  - Gephi (redes/grafos)
+  - Audacity (áudio)
 
 
 
@@ -131,7 +136,7 @@ faço uma relatoria, em geral na forma de um artigo/ensaio.
 
 * Não tenho hipóteses iniciais neste caso.
 Acho que não há influência notável em vários sentidos (e.g. místico).
-Acho que há correlação de população e grupo (e.g. alemão e inglês e masculino).
+Acho que há correlação com relação à população e ao grupo (e.g. alemão e inglês e masculino).
 Alguma implicação psicofísica?
 
 * Podemos analisar os nomes dos laureados com o prêmio Nobel.
@@ -351,13 +356,16 @@ pessoa de quem é a rede?
 
 ** Outros exemplos **
 
-- Dados artificiais: scripts em ~/repos/gmaneLegacy/texts/`
+- Dados artificiais: scripts em ~/repos/gmaneLegacy/tests/`
 
 - Análise de texto para crítica literária (Shakespeare, Bíblia, Joyce)
    em ~/repos/joyce/*
 
 - Estabilidade topológica e diferenciação textual em redes de interação humana
    em ~/repos/percolation/* e ~/repos/gmaneLegacy/*
+   http://github.com/ttm/percolation
+   http://github.com/ttm/gmaneLegacy
+   http://github.com/ttm/thesis
 
 
 

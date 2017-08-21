@@ -1,227 +1,227 @@
--rw-r--r-- 1 root root 3586 Jan  8  2016 /usr/lib/python3/dist-packages/scipy/io/tests/data/test-44100Hz-2ch-32bit-float-le.wav
--rw-r--r-- 1 root root 1644 Jan  8  2016 /usr/lib/python3/dist-packages/scipy/io/tests/data/test-8000Hz-le-2ch-1byteu.wav
--rw-r--r-- 1 root root 3586 Jan  8  2016 /usr/lib/python3/dist-packages/scipy/io/tests/data/test-44100Hz-2ch-32bit-float-be.wav
--rw-r--r-- 1 root root 7792 Jan  8  2016 /usr/lib/python3/dist-packages/scipy/io/tests/data/test-48000Hz-2ch-64bit-float-le-wavex.wav
--rw-r--r-- 1 root root 17720 Jan  8  2016 /usr/lib/python3/dist-packages/scipy/io/tests/data/test-44100Hz-le-1ch-4bytes.wav
--rw-r--r-- 1 root root 85106 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/strom.wav
--rw-r--r-- 1 root root 47532 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/explos.wav
--rw-r--r-- 1 root root 134660 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/curve.wav
--rw-r--r-- 1 root root 46376 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/kling.wav
--rw-r--r-- 1 root root 29788 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/left.wav
--rw-r--r-- 1 root root 28682 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/ups.wav
--rw-r--r-- 1 root root 144748 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/space3.wav
--rw-r--r-- 1 root root 83102 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/nature1.wav
--rw-r--r-- 1 root root 37546 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/cow.wav
--rw-r--r-- 1 root root 191292 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/gong.wav
--rw-r--r-- 1 root root 65580 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/sparcle.wav
--rw-r--r-- 1 root root 8862 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/ok.wav
--rw-r--r-- 1 root root 49506 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/theetone.wav
--rw-r--r-- 1 root root 41958 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/horse.wav
--rw-r--r-- 1 root root 43728 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/beam.wav
--rw-r--r-- 1 root root 47760 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/apert.wav
--rw-r--r-- 1 root root 36270 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/glasses.wav
--rw-r--r-- 1 root root 242648 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/roll.wav
--rw-r--r-- 1 root root 37164 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/nature2.wav
--rw-r--r-- 1 root root 90466 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/romans.wav
--rw-r--r-- 1 root root 54866 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/kongas.wav
--rw-r--r-- 1 root root 69242 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/top.wav
--rw-r--r-- 1 root root 87008 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/falling.wav
--rw-r--r-- 1 root root 192686 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/space2.wav
--rw-r--r-- 1 root root 73456 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/beam2.wav
--rw-r--r-- 1 root root 28510 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/pluck.wav
--rw-r--r-- 1 root root 104018 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/wallewal.wav
--rw-r--r-- 1 root root 133758 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/space.wav
--rw-r--r-- 1 root root 190884 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/untie.wav
--rw-r--r-- 1 root root 162366 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/drama.wav
--rw-r--r-- 1 root root 60904 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/apert2.wav
--rw-r--r-- 1 root root 185752 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/soft.wav
--rw-r--r-- 1 root root 56716 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/train.wav
--rw-r--r-- 1 root root 90472 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/applause.wav
--rw-r--r-- 1 root root 8408 Out 18  2016 /usr/lib/libreoffice/share/gallery/sounds/laser.wav
--rw-r--r-- 1 root root 17410 Fev 18  2016 /usr/share/sounds/speech-dispatcher/test.wav
--rw-r--r-- 1 root root 163901 Fev 18  2016 /usr/share/sounds/speech-dispatcher/dummy-message.wav
--rw-r--r-- 1 root root 130096 Abr 14  2016 /usr/share/sounds/alsa/Rear_Center.wav
--rw-r--r-- 1 root root 137134 Abr 14  2016 /usr/share/sounds/alsa/Front_Center.wav
--rw-r--r-- 1 root root 142128 Abr 14  2016 /usr/share/sounds/alsa/Front_Left.wav
--rw-r--r-- 1 root root 134868 Abr 14  2016 /usr/share/sounds/alsa/Side_Left.wav
--rw-r--r-- 1 root root 129966 Abr 14  2016 /usr/share/sounds/alsa/Side_Right.wav
--rw-r--r-- 1 root root 146480 Abr 14  2016 /usr/share/sounds/alsa/Rear_Right.wav
--rw-r--r-- 1 root root 146990 Abr 14  2016 /usr/share/sounds/alsa/Front_Right.wav
--rw-r--r-- 1 root root 126064 Abr 14  2016 /usr/share/sounds/alsa/Rear_Left.wav
--rw-r--r-- 1 root root 135202 Abr 14  2016 /usr/share/sounds/alsa/Noise.wav
--rw-rw-r-- 1 renato renato 88724 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-mbgt0/sx81.wav
--rw-rw-r-- 1 renato renato 152416 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-mbgt0/si1841.wav
--rw-rw-r-- 1 renato renato 101216 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-mbgt0/si711.wav
--rw-rw-r-- 1 renato renato 95072 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-mbgt0/sa2.wav
--rw-rw-r-- 1 renato renato 54316 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-mbgt0/si1341.wav
--rw-rw-r-- 1 renato renato 105926 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-mbgt0/sa1.wav
--rw-rw-r-- 1 renato renato 128660 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-mbgt0/sx351.wav
--rw-rw-r-- 1 renato renato 86676 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-mbgt0/sx441.wav
--rw-rw-r-- 1 renato renato 74796 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-mbgt0/sx261.wav
--rw-rw-r-- 1 renato renato 145658 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-mbgt0/sx171.wav
--rw-rw-r-- 1 renato renato 153850 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-ftlg0/si483.wav
--rw-rw-r-- 1 renato renato 150368 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-ftlg0/si1743.wav
--rw-rw-r-- 1 renato renato 81146 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-ftlg0/sx33.wav
--rw-rw-r-- 1 renato renato 72954 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-ftlg0/sx303.wav
--rw-rw-r-- 1 renato renato 84628 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-ftlg0/si840.wav
--rw-rw-r-- 1 renato renato 106132 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-ftlg0/sx123.wav
--rw-rw-r-- 1 renato renato 89338 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-ftlg0/sa2.wav
--rw-rw-r-- 1 renato renato 120468 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-ftlg0/sa1.wav
--rw-rw-r-- 1 renato renato 86470 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-ftlg0/sx393.wav
--rw-rw-r-- 1 renato renato 92000 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr5-ftlg0/sx213.wav
--rw-rw-r-- 1 renato renato 105312 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-madd0/sx268.wav
--rw-rw-r-- 1 renato renato 84012 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-madd0/sx358.wav
--rw-rw-r-- 1 renato renato 88314 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-madd0/sa2.wav
--rw-rw-r-- 1 renato renato 106336 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-madd0/sa1.wav
--rw-rw-r-- 1 renato renato 117804 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-madd0/sx178.wav
--rw-rw-r-- 1 renato renato 105722 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-madd0/sx88.wav
--rw-rw-r-- 1 renato renato 82784 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-madd0/sx448.wav
--rw-rw-r-- 1 renato renato 59232 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-madd0/si1295.wav
--rw-rw-r-- 1 renato renato 112890 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-madd0/si1798.wav
--rw-rw-r-- 1 renato renato 90566 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-madd0/si538.wav
--rw-rw-r-- 1 renato renato 87494 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-mbcg0/sx417.wav
--rw-rw-r-- 1 renato renato 85446 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-mbcg0/si2217.wav
--rw-rw-r-- 1 renato renato 91386 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-mbcg0/sx147.wav
--rw-rw-r-- 1 renato renato 83194 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-mbcg0/sa2.wav
--rw-rw-r-- 1 renato renato 101216 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-mbcg0/sa1.wav
--rw-rw-r-- 1 renato renato 53702 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-mbcg0/sx237.wav
--rw-rw-r-- 1 renato renato 129068 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-mbcg0/si957.wav
--rw-rw-r-- 1 renato renato 54932 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-mbcg0/si486.wav
--rw-rw-r-- 1 renato renato 81760 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-mbcg0/sx57.wav
--rw-rw-r-- 1 renato renato 139924 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-mbcg0/sx327.wav
--rw-rw-r-- 1 renato renato 62304 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-maeb0/sx90.wav
--rw-rw-r-- 1 renato renato 81556 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-maeb0/si2250.wav
--rw-rw-r-- 1 renato renato 89542 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-maeb0/sa2.wav
--rw-rw-r-- 1 renato renato 97324 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-maeb0/sa1.wav
--rw-rw-r-- 1 renato renato 99372 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-maeb0/sx450.wav
--rw-rw-r-- 1 renato renato 81964 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-maeb0/sx270.wav
--rw-rw-r-- 1 renato renato 92820 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-maeb0/sx360.wav
--rw-rw-r-- 1 renato renato 88518 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-maeb0/sx180.wav
--rw-rw-r-- 1 renato renato 131116 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-maeb0/si1411.wav
--rw-rw-r-- 1 renato renato 105108 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-maeb0/si990.wav
--rw-rw-r-- 1 renato renato 62918 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-madc0/sx17.wav
--rw-rw-r-- 1 renato renato 102240 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-madc0/sx377.wav
--rw-rw-r-- 1 renato renato 97530 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-madc0/sx287.wav
--rw-rw-r-- 1 renato renato 99168 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-madc0/sa2.wav
--rw-rw-r-- 1 renato renato 111866 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-madc0/sa1.wav
--rw-rw-r-- 1 renato renato 144224 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-madc0/si1367.wav
--rw-rw-r-- 1 renato renato 153644 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-madc0/si737.wav
--rw-rw-r-- 1 renato renato 81760 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-madc0/sx197.wav
--rw-rw-r-- 1 renato renato 91796 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-madc0/sx107.wav
--rw-rw-r-- 1 renato renato 101626 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-madc0/si1997.wav
--rw-rw-r-- 1 renato renato 143200 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-mbma1/sx324.wav
--rw-rw-r-- 1 renato renato 128864 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-mbma1/si954.wav
--rw-rw-r-- 1 renato renato 89132 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-mbma1/sx234.wav
--rw-rw-r-- 1 renato renato 98348 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-mbma1/si2214.wav
--rw-rw-r-- 1 renato renato 96710 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-mbma1/sx144.wav
--rw-rw-r-- 1 renato renato 110636 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-mbma1/sa2.wav
--rw-rw-r-- 1 renato renato 118010 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-mbma1/sa1.wav
--rw-rw-r-- 1 renato renato 59642 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-mbma1/si2207.wav
--rw-rw-r-- 1 renato renato 94252 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-mbma1/sx414.wav
--rw-rw-r-- 1 renato renato 122720 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-mbma1/sx54.wav
--rw-rw-r-- 1 renato renato 137670 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-fvmh0/si836.wav
--rw-rw-r-- 1 renato renato 134804 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-fvmh0/si1466.wav
--rw-rw-r-- 1 renato renato 95892 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-fvmh0/sx206.wav
--rw-rw-r-- 1 renato renato 66196 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-fvmh0/sx26.wav
--rw-rw-r-- 1 renato renato 88108 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-fvmh0/si2096.wav
--rw-rw-r-- 1 renato renato 72544 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-fvmh0/sx296.wav
--rw-rw-r-- 1 renato renato 80326 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-fvmh0/sa2.wav
--rw-rw-r-- 1 renato renato 109408 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-fvmh0/sa1.wav
--rw-rw-r-- 1 renato renato 64352 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-fvmh0/sx116.wav
--rw-rw-r-- 1 renato renato 65172 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-fvmh0/sx386.wav
--rw-rw-r-- 1 renato renato 129478 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-falr0/sx335.wav
--rw-rw-r-- 1 renato renato 104288 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-falr0/si1325.wav
--rw-rw-r-- 1 renato renato 62304 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-falr0/sx425.wav
--rw-rw-r-- 1 renato renato 75412 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-falr0/sx65.wav
--rw-rw-r-- 1 renato renato 79916 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-falr0/sx245.wav
--rw-rw-r-- 1 renato renato 81964 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-falr0/si1955.wav
--rw-rw-r-- 1 renato renato 98144 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-falr0/sa2.wav
--rw-rw-r-- 1 renato renato 100192 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-falr0/sa1.wav
--rw-rw-r-- 1 renato renato 96710 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-falr0/sx155.wav
--rw-rw-r-- 1 renato renato 91180 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr4-falr0/si695.wav
--rw-rw-r-- 1 renato renato 68448 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-mcpm0/sx294.wav
--rw-rw-r-- 1 renato renato 89542 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-mcpm0/si1194.wav
--rw-rw-r-- 1 renato renato 134394 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-mcpm0/si1824.wav
--rw-rw-r-- 1 renato renato 79508 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-mcpm0/sa2.wav
--rw-rw-r-- 1 renato renato 97530 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-mcpm0/sa1.wav
--rw-rw-r-- 1 renato renato 77664 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-mcpm0/sx204.wav
--rw-rw-r-- 1 renato renato 62918 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-mcpm0/sx384.wav
--rw-rw-r-- 1 renato renato 122720 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-mcpm0/si564.wav
--rw-rw-r-- 1 renato renato 69062 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-mcpm0/sx24.wav
--rw-rw-r-- 1 renato renato 85856 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr1-mcpm0/sx114.wav
--rw-rw-r-- 1 renato renato 88314 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-faem0/si762.wav
--rw-rw-r-- 1 renato renato 71930 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-faem0/sx42.wav
--rw-rw-r-- 1 renato renato 72134 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-faem0/si2022.wav
--rw-rw-r-- 1 renato renato 92614 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-faem0/sx132.wav
--rw-rw-r-- 1 renato renato 120672 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-faem0/sx312.wav
--rw-rw-r-- 1 renato renato 90566 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-faem0/sa2.wav
--rw-rw-r-- 1 renato renato 107770 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-faem0/sa1.wav
--rw-rw-r-- 1 renato renato 152416 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-faem0/si1392.wav
--rw-rw-r-- 1 renato renato 86470 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-faem0/sx222.wav
--rw-rw-r-- 1 renato renato 101216 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-faem0/sx402.wav
--rw-rw-r-- 1 renato renato 82374 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-fbcg1/sx82.wav
--rw-rw-r-- 1 renato renato 83398 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-fbcg1/sx262.wav
--rw-rw-r-- 1 renato renato 138490 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-fbcg1/sx352.wav
--rw-rw-r-- 1 renato renato 66604 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-fbcg1/si2242.wav
--rw-rw-r-- 1 renato renato 116986 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-fbcg1/sa2.wav
--rw-rw-r-- 1 renato renato 98964 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-fbcg1/sa1.wav
--rw-rw-r-- 1 renato renato 102854 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-fbcg1/sx172.wav
--rw-rw-r-- 1 renato renato 47968 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-fbcg1/si1612.wav
--rw-rw-r-- 1 renato renato 115142 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-fbcg1/sx442.wav
--rw-rw-r-- 1 renato renato 127840 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr8-fbcg1/si982.wav
--rw-rw-r-- 1 renato renato 101216 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-fapb0/sx163.wav
--rw-rw-r-- 1 renato renato 95686 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-fapb0/sx253.wav
--rw-rw-r-- 1 renato renato 137876 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-fapb0/si1063.wav
--rw-rw-r-- 1 renato renato 176788 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-fapb0/si2323.wav
--rw-rw-r-- 1 renato renato 85446 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-fapb0/si1693.wav
--rw-rw-r-- 1 renato renato 126202 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-fapb0/sx343.wav
--rw-rw-r-- 1 renato renato 112890 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-fapb0/sx73.wav
--rw-rw-r-- 1 renato renato 98758 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-fapb0/sa2.wav
--rw-rw-r-- 1 renato renato 118214 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-fapb0/sa1.wav
--rw-rw-r-- 1 renato renato 138284 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr6-fapb0/sx433.wav
--rw-rw-r-- 1 renato renato 72340 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-fblv0/sx158.wav
--rw-rw-r-- 1 renato renato 86676 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-fblv0/sx68.wav
--rw-rw-r-- 1 renato renato 110022 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-fblv0/sx338.wav
--rw-rw-r-- 1 renato renato 76230 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-fblv0/sx248.wav
--rw-rw-r-- 1 renato renato 105516 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-fblv0/si1058.wav
--rw-rw-r-- 1 renato renato 166342 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-fblv0/si1688.wav
--rw-rw-r-- 1 renato renato 115348 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-fblv0/si2318.wav
--rw-rw-r-- 1 renato renato 106540 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-fblv0/sa2.wav
--rw-rw-r-- 1 renato renato 105312 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-fblv0/sa1.wav
--rw-rw-r-- 1 renato renato 108794 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr7-fblv0/sx428.wav
--rw-rw-r-- 1 renato renato 77050 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-falk0/sx186.wav
--rw-rw-r-- 1 renato renato 101012 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-falk0/sx96.wav
--rw-rw-r-- 1 renato renato 91796 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-falk0/si456.wav
--rw-rw-r-- 1 renato renato 91386 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-falk0/si1086.wav
--rw-rw-r-- 1 renato renato 78278 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-falk0/sx6.wav
--rw-rw-r-- 1 renato renato 99782 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-falk0/sa2.wav
--rw-rw-r-- 1 renato renato 103264 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-falk0/sa1.wav
--rw-rw-r-- 1 renato renato 85036 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-falk0/sx276.wav
--rw-rw-r-- 1 renato renato 113914 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-falk0/sx366.wav
--rw-rw-r-- 1 renato renato 157332 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr3-falk0/si658.wav
--rw-rw-r-- 1 renato renato 83808 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-marc0/sx378.wav
--rw-rw-r-- 1 renato renato 69676 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-marc0/sx198.wav
--rw-rw-r-- 1 renato renato 70086 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-marc0/si1818.wav
--rw-rw-r-- 1 renato renato 92000 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-marc0/sx288.wav
--rw-rw-r-- 1 renato renato 45920 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-marc0/si1188.wav
--rw-rw-r-- 1 renato renato 74182 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-marc0/sx108.wav
--rw-rw-r-- 1 renato renato 109408 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-marc0/si558.wav
--rw-rw-r-- 1 renato renato 76436 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-marc0/sa2.wav
--rw-rw-r-- 1 renato renato 94252 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-marc0/sa1.wav
--rw-rw-r-- 1 renato renato 74796 Ago  7 13:56 /home/renato/nltk_data/corpora/timit/dr2-marc0/sx18.wav
--rw------- 1 renato renato 176444 Out 15  2015 /home/renato/.config/google-chrome/Default/Extensions/haifegcdjaddnmjkndgonkipibdpfcnk/0.9.2_0/sounds/button-wrong.wav
--rw------- 1 renato renato 65536 Out 15  2015 /home/renato/.config/google-chrome/Default/Extensions/haifegcdjaddnmjkndgonkipibdpfcnk/0.9.2_0/sounds/button-click.wav
--rw------- 1 renato renato 294044 Out 15  2015 /home/renato/.config/google-chrome/Default/Extensions/haifegcdjaddnmjkndgonkipibdpfcnk/0.9.2_0/sounds/button-correct.wav
--rw------- 1 renato renato 125996 Out 15  2015 /home/renato/.config/google-chrome/Default/Extensions/haifegcdjaddnmjkndgonkipibdpfcnk/0.9.2_0/sounds/button-hover.wav
--rw-rw-r-- 1 renato renato 1024 Jul 21 13:28 /home/renato/repos/scipy/scipy/io/tests/data/test-44100Hz-le-1ch-4bytes-early-eof.wav
--rw-rw-r-- 1 renato renato 3586 Jul 21 13:28 /home/renato/repos/scipy/scipy/io/tests/data/test-44100Hz-2ch-32bit-float-le.wav
--rw-rw-r-- 1 renato renato 1644 Jul 21 13:28 /home/renato/repos/scipy/scipy/io/tests/data/test-8000Hz-le-2ch-1byteu.wav
--rw-rw-r-- 1 renato renato 3586 Jul 21 13:28 /home/renato/repos/scipy/scipy/io/tests/data/test-44100Hz-2ch-32bit-float-be.wav
--rw-rw-r-- 1 renato renato 13 Jul 21 13:28 /home/renato/repos/scipy/scipy/io/tests/data/test-44100Hz-le-1ch-4bytes-incomplete-chunk.wav
--rw-rw-r-- 1 renato renato 7792 Jul 21 13:28 /home/renato/repos/scipy/scipy/io/tests/data/test-48000Hz-2ch-64bit-float-le-wavex.wav
--rw-rw-r-- 1 renato renato 17720 Jul 21 13:28 /home/renato/repos/scipy/scipy/io/tests/data/test-44100Hz-le-1ch-4bytes.wav
--rw-rw-r-- 1 renato renato 242 Ago  7 09:55 /home/renato/repos/dissertacao/scripts/secao2.1/22686__acclivity__oboe-a-440_periodo.wav
--rw-rw-r-- 1 renato renato 242 Ago  7 09:55 /home/renato/repos/dissertacao/scripts/22686__acclivity__oboe-a-440_periodo.wav
--rw-rw-r-- 1 renato renato 602160 Ago  7 09:55 /home/renato/repos/dissertacao/scripts/22686__acclivity__oboe-a-440.wav
--rw-rw-r-- 1 renato renato 242 Ago  7 09:55 /home/renato/repos/dissertacao/scripts/secao2.2/22686__acclivity__oboe-a-440_periodo.wav
--rw-rw-r-- 1 renato renato 386 Ago  7 09:55 /home/renato/repos/dissertacao/scripts/ondaReal.wav
+/usr/lib/python3/dist-packages/scipy/io/tests/data/test-44100Hz-2ch-32bit-float-le.wav
+/usr/lib/python3/dist-packages/scipy/io/tests/data/test-8000Hz-le-2ch-1byteu.wav
+/usr/lib/python3/dist-packages/scipy/io/tests/data/test-44100Hz-2ch-32bit-float-be.wav
+/usr/lib/python3/dist-packages/scipy/io/tests/data/test-48000Hz-2ch-64bit-float-le-wavex.wav
+/usr/lib/python3/dist-packages/scipy/io/tests/data/test-44100Hz-le-1ch-4bytes.wav
+/usr/lib/libreoffice/share/gallery/sounds/strom.wav
+/usr/lib/libreoffice/share/gallery/sounds/explos.wav
+/usr/lib/libreoffice/share/gallery/sounds/curve.wav
+/usr/lib/libreoffice/share/gallery/sounds/kling.wav
+/usr/lib/libreoffice/share/gallery/sounds/left.wav
+/usr/lib/libreoffice/share/gallery/sounds/ups.wav
+/usr/lib/libreoffice/share/gallery/sounds/space3.wav
+/usr/lib/libreoffice/share/gallery/sounds/nature1.wav
+/usr/lib/libreoffice/share/gallery/sounds/cow.wav
+/usr/lib/libreoffice/share/gallery/sounds/gong.wav
+/usr/lib/libreoffice/share/gallery/sounds/sparcle.wav
+/usr/lib/libreoffice/share/gallery/sounds/ok.wav
+/usr/lib/libreoffice/share/gallery/sounds/theetone.wav
+/usr/lib/libreoffice/share/gallery/sounds/horse.wav
+/usr/lib/libreoffice/share/gallery/sounds/beam.wav
+/usr/lib/libreoffice/share/gallery/sounds/apert.wav
+/usr/lib/libreoffice/share/gallery/sounds/glasses.wav
+/usr/lib/libreoffice/share/gallery/sounds/roll.wav
+/usr/lib/libreoffice/share/gallery/sounds/nature2.wav
+/usr/lib/libreoffice/share/gallery/sounds/romans.wav
+/usr/lib/libreoffice/share/gallery/sounds/kongas.wav
+/usr/lib/libreoffice/share/gallery/sounds/top.wav
+/usr/lib/libreoffice/share/gallery/sounds/falling.wav
+/usr/lib/libreoffice/share/gallery/sounds/space2.wav
+/usr/lib/libreoffice/share/gallery/sounds/beam2.wav
+/usr/lib/libreoffice/share/gallery/sounds/pluck.wav
+/usr/lib/libreoffice/share/gallery/sounds/wallewal.wav
+/usr/lib/libreoffice/share/gallery/sounds/space.wav
+/usr/lib/libreoffice/share/gallery/sounds/untie.wav
+/usr/lib/libreoffice/share/gallery/sounds/drama.wav
+/usr/lib/libreoffice/share/gallery/sounds/apert2.wav
+/usr/lib/libreoffice/share/gallery/sounds/soft.wav
+/usr/lib/libreoffice/share/gallery/sounds/train.wav
+/usr/lib/libreoffice/share/gallery/sounds/applause.wav
+/usr/lib/libreoffice/share/gallery/sounds/laser.wav
+/usr/share/sounds/speech-dispatcher/test.wav
+/usr/share/sounds/speech-dispatcher/dummy-message.wav
+/usr/share/sounds/alsa/Rear_Center.wav
+/usr/share/sounds/alsa/Front_Center.wav
+/usr/share/sounds/alsa/Front_Left.wav
+/usr/share/sounds/alsa/Side_Left.wav
+/usr/share/sounds/alsa/Side_Right.wav
+/usr/share/sounds/alsa/Rear_Right.wav
+/usr/share/sounds/alsa/Front_Right.wav
+/usr/share/sounds/alsa/Rear_Left.wav
+/usr/share/sounds/alsa/Noise.wav
+/home/renato/nltk_data/corpora/timit/dr5-mbgt0/sx81.wav
+/home/renato/nltk_data/corpora/timit/dr5-mbgt0/si1841.wav
+/home/renato/nltk_data/corpora/timit/dr5-mbgt0/si711.wav
+/home/renato/nltk_data/corpora/timit/dr5-mbgt0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr5-mbgt0/si1341.wav
+/home/renato/nltk_data/corpora/timit/dr5-mbgt0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr5-mbgt0/sx351.wav
+/home/renato/nltk_data/corpora/timit/dr5-mbgt0/sx441.wav
+/home/renato/nltk_data/corpora/timit/dr5-mbgt0/sx261.wav
+/home/renato/nltk_data/corpora/timit/dr5-mbgt0/sx171.wav
+/home/renato/nltk_data/corpora/timit/dr5-ftlg0/si483.wav
+/home/renato/nltk_data/corpora/timit/dr5-ftlg0/si1743.wav
+/home/renato/nltk_data/corpora/timit/dr5-ftlg0/sx33.wav
+/home/renato/nltk_data/corpora/timit/dr5-ftlg0/sx303.wav
+/home/renato/nltk_data/corpora/timit/dr5-ftlg0/si840.wav
+/home/renato/nltk_data/corpora/timit/dr5-ftlg0/sx123.wav
+/home/renato/nltk_data/corpora/timit/dr5-ftlg0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr5-ftlg0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr5-ftlg0/sx393.wav
+/home/renato/nltk_data/corpora/timit/dr5-ftlg0/sx213.wav
+/home/renato/nltk_data/corpora/timit/dr7-madd0/sx268.wav
+/home/renato/nltk_data/corpora/timit/dr7-madd0/sx358.wav
+/home/renato/nltk_data/corpora/timit/dr7-madd0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr7-madd0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr7-madd0/sx178.wav
+/home/renato/nltk_data/corpora/timit/dr7-madd0/sx88.wav
+/home/renato/nltk_data/corpora/timit/dr7-madd0/sx448.wav
+/home/renato/nltk_data/corpora/timit/dr7-madd0/si1295.wav
+/home/renato/nltk_data/corpora/timit/dr7-madd0/si1798.wav
+/home/renato/nltk_data/corpora/timit/dr7-madd0/si538.wav
+/home/renato/nltk_data/corpora/timit/dr8-mbcg0/sx417.wav
+/home/renato/nltk_data/corpora/timit/dr8-mbcg0/si2217.wav
+/home/renato/nltk_data/corpora/timit/dr8-mbcg0/sx147.wav
+/home/renato/nltk_data/corpora/timit/dr8-mbcg0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr8-mbcg0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr8-mbcg0/sx237.wav
+/home/renato/nltk_data/corpora/timit/dr8-mbcg0/si957.wav
+/home/renato/nltk_data/corpora/timit/dr8-mbcg0/si486.wav
+/home/renato/nltk_data/corpora/timit/dr8-mbcg0/sx57.wav
+/home/renato/nltk_data/corpora/timit/dr8-mbcg0/sx327.wav
+/home/renato/nltk_data/corpora/timit/dr4-maeb0/sx90.wav
+/home/renato/nltk_data/corpora/timit/dr4-maeb0/si2250.wav
+/home/renato/nltk_data/corpora/timit/dr4-maeb0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr4-maeb0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr4-maeb0/sx450.wav
+/home/renato/nltk_data/corpora/timit/dr4-maeb0/sx270.wav
+/home/renato/nltk_data/corpora/timit/dr4-maeb0/sx360.wav
+/home/renato/nltk_data/corpora/timit/dr4-maeb0/sx180.wav
+/home/renato/nltk_data/corpora/timit/dr4-maeb0/si1411.wav
+/home/renato/nltk_data/corpora/timit/dr4-maeb0/si990.wav
+/home/renato/nltk_data/corpora/timit/dr3-madc0/sx17.wav
+/home/renato/nltk_data/corpora/timit/dr3-madc0/sx377.wav
+/home/renato/nltk_data/corpora/timit/dr3-madc0/sx287.wav
+/home/renato/nltk_data/corpora/timit/dr3-madc0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr3-madc0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr3-madc0/si1367.wav
+/home/renato/nltk_data/corpora/timit/dr3-madc0/si737.wav
+/home/renato/nltk_data/corpora/timit/dr3-madc0/sx197.wav
+/home/renato/nltk_data/corpora/timit/dr3-madc0/sx107.wav
+/home/renato/nltk_data/corpora/timit/dr3-madc0/si1997.wav
+/home/renato/nltk_data/corpora/timit/dr6-mbma1/sx324.wav
+/home/renato/nltk_data/corpora/timit/dr6-mbma1/si954.wav
+/home/renato/nltk_data/corpora/timit/dr6-mbma1/sx234.wav
+/home/renato/nltk_data/corpora/timit/dr6-mbma1/si2214.wav
+/home/renato/nltk_data/corpora/timit/dr6-mbma1/sx144.wav
+/home/renato/nltk_data/corpora/timit/dr6-mbma1/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr6-mbma1/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr6-mbma1/si2207.wav
+/home/renato/nltk_data/corpora/timit/dr6-mbma1/sx414.wav
+/home/renato/nltk_data/corpora/timit/dr6-mbma1/sx54.wav
+/home/renato/nltk_data/corpora/timit/dr1-fvmh0/si836.wav
+/home/renato/nltk_data/corpora/timit/dr1-fvmh0/si1466.wav
+/home/renato/nltk_data/corpora/timit/dr1-fvmh0/sx206.wav
+/home/renato/nltk_data/corpora/timit/dr1-fvmh0/sx26.wav
+/home/renato/nltk_data/corpora/timit/dr1-fvmh0/si2096.wav
+/home/renato/nltk_data/corpora/timit/dr1-fvmh0/sx296.wav
+/home/renato/nltk_data/corpora/timit/dr1-fvmh0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr1-fvmh0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr1-fvmh0/sx116.wav
+/home/renato/nltk_data/corpora/timit/dr1-fvmh0/sx386.wav
+/home/renato/nltk_data/corpora/timit/dr4-falr0/sx335.wav
+/home/renato/nltk_data/corpora/timit/dr4-falr0/si1325.wav
+/home/renato/nltk_data/corpora/timit/dr4-falr0/sx425.wav
+/home/renato/nltk_data/corpora/timit/dr4-falr0/sx65.wav
+/home/renato/nltk_data/corpora/timit/dr4-falr0/sx245.wav
+/home/renato/nltk_data/corpora/timit/dr4-falr0/si1955.wav
+/home/renato/nltk_data/corpora/timit/dr4-falr0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr4-falr0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr4-falr0/sx155.wav
+/home/renato/nltk_data/corpora/timit/dr4-falr0/si695.wav
+/home/renato/nltk_data/corpora/timit/dr1-mcpm0/sx294.wav
+/home/renato/nltk_data/corpora/timit/dr1-mcpm0/si1194.wav
+/home/renato/nltk_data/corpora/timit/dr1-mcpm0/si1824.wav
+/home/renato/nltk_data/corpora/timit/dr1-mcpm0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr1-mcpm0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr1-mcpm0/sx204.wav
+/home/renato/nltk_data/corpora/timit/dr1-mcpm0/sx384.wav
+/home/renato/nltk_data/corpora/timit/dr1-mcpm0/si564.wav
+/home/renato/nltk_data/corpora/timit/dr1-mcpm0/sx24.wav
+/home/renato/nltk_data/corpora/timit/dr1-mcpm0/sx114.wav
+/home/renato/nltk_data/corpora/timit/dr2-faem0/si762.wav
+/home/renato/nltk_data/corpora/timit/dr2-faem0/sx42.wav
+/home/renato/nltk_data/corpora/timit/dr2-faem0/si2022.wav
+/home/renato/nltk_data/corpora/timit/dr2-faem0/sx132.wav
+/home/renato/nltk_data/corpora/timit/dr2-faem0/sx312.wav
+/home/renato/nltk_data/corpora/timit/dr2-faem0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr2-faem0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr2-faem0/si1392.wav
+/home/renato/nltk_data/corpora/timit/dr2-faem0/sx222.wav
+/home/renato/nltk_data/corpora/timit/dr2-faem0/sx402.wav
+/home/renato/nltk_data/corpora/timit/dr8-fbcg1/sx82.wav
+/home/renato/nltk_data/corpora/timit/dr8-fbcg1/sx262.wav
+/home/renato/nltk_data/corpora/timit/dr8-fbcg1/sx352.wav
+/home/renato/nltk_data/corpora/timit/dr8-fbcg1/si2242.wav
+/home/renato/nltk_data/corpora/timit/dr8-fbcg1/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr8-fbcg1/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr8-fbcg1/sx172.wav
+/home/renato/nltk_data/corpora/timit/dr8-fbcg1/si1612.wav
+/home/renato/nltk_data/corpora/timit/dr8-fbcg1/sx442.wav
+/home/renato/nltk_data/corpora/timit/dr8-fbcg1/si982.wav
+/home/renato/nltk_data/corpora/timit/dr6-fapb0/sx163.wav
+/home/renato/nltk_data/corpora/timit/dr6-fapb0/sx253.wav
+/home/renato/nltk_data/corpora/timit/dr6-fapb0/si1063.wav
+/home/renato/nltk_data/corpora/timit/dr6-fapb0/si2323.wav
+/home/renato/nltk_data/corpora/timit/dr6-fapb0/si1693.wav
+/home/renato/nltk_data/corpora/timit/dr6-fapb0/sx343.wav
+/home/renato/nltk_data/corpora/timit/dr6-fapb0/sx73.wav
+/home/renato/nltk_data/corpora/timit/dr6-fapb0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr6-fapb0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr6-fapb0/sx433.wav
+/home/renato/nltk_data/corpora/timit/dr7-fblv0/sx158.wav
+/home/renato/nltk_data/corpora/timit/dr7-fblv0/sx68.wav
+/home/renato/nltk_data/corpora/timit/dr7-fblv0/sx338.wav
+/home/renato/nltk_data/corpora/timit/dr7-fblv0/sx248.wav
+/home/renato/nltk_data/corpora/timit/dr7-fblv0/si1058.wav
+/home/renato/nltk_data/corpora/timit/dr7-fblv0/si1688.wav
+/home/renato/nltk_data/corpora/timit/dr7-fblv0/si2318.wav
+/home/renato/nltk_data/corpora/timit/dr7-fblv0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr7-fblv0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr7-fblv0/sx428.wav
+/home/renato/nltk_data/corpora/timit/dr3-falk0/sx186.wav
+/home/renato/nltk_data/corpora/timit/dr3-falk0/sx96.wav
+/home/renato/nltk_data/corpora/timit/dr3-falk0/si456.wav
+/home/renato/nltk_data/corpora/timit/dr3-falk0/si1086.wav
+/home/renato/nltk_data/corpora/timit/dr3-falk0/sx6.wav
+/home/renato/nltk_data/corpora/timit/dr3-falk0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr3-falk0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr3-falk0/sx276.wav
+/home/renato/nltk_data/corpora/timit/dr3-falk0/sx366.wav
+/home/renato/nltk_data/corpora/timit/dr3-falk0/si658.wav
+/home/renato/nltk_data/corpora/timit/dr2-marc0/sx378.wav
+/home/renato/nltk_data/corpora/timit/dr2-marc0/sx198.wav
+/home/renato/nltk_data/corpora/timit/dr2-marc0/si1818.wav
+/home/renato/nltk_data/corpora/timit/dr2-marc0/sx288.wav
+/home/renato/nltk_data/corpora/timit/dr2-marc0/si1188.wav
+/home/renato/nltk_data/corpora/timit/dr2-marc0/sx108.wav
+/home/renato/nltk_data/corpora/timit/dr2-marc0/si558.wav
+/home/renato/nltk_data/corpora/timit/dr2-marc0/sa2.wav
+/home/renato/nltk_data/corpora/timit/dr2-marc0/sa1.wav
+/home/renato/nltk_data/corpora/timit/dr2-marc0/sx18.wav
+/home/renato/.config/google-chrome/Default/Extensions/haifegcdjaddnmjkndgonkipibdpfcnk/0.9.2_0/sounds/button-wrong.wav
+/home/renato/.config/google-chrome/Default/Extensions/haifegcdjaddnmjkndgonkipibdpfcnk/0.9.2_0/sounds/button-click.wav
+/home/renato/.config/google-chrome/Default/Extensions/haifegcdjaddnmjkndgonkipibdpfcnk/0.9.2_0/sounds/button-correct.wav
+/home/renato/.config/google-chrome/Default/Extensions/haifegcdjaddnmjkndgonkipibdpfcnk/0.9.2_0/sounds/button-hover.wav
+/home/renato/repos/scipy/scipy/io/tests/data/test-44100Hz-le-1ch-4bytes-early-eof.wav
+/home/renato/repos/scipy/scipy/io/tests/data/test-44100Hz-2ch-32bit-float-le.wav
+/home/renato/repos/scipy/scipy/io/tests/data/test-8000Hz-le-2ch-1byteu.wav
+/home/renato/repos/scipy/scipy/io/tests/data/test-44100Hz-2ch-32bit-float-be.wav
+/home/renato/repos/scipy/scipy/io/tests/data/test-44100Hz-le-1ch-4bytes-incomplete-chunk.wav
+/home/renato/repos/scipy/scipy/io/tests/data/test-48000Hz-2ch-64bit-float-le-wavex.wav
+/home/renato/repos/scipy/scipy/io/tests/data/test-44100Hz-le-1ch-4bytes.wav
+/home/renato/repos/dissertacao/scripts/secao2.1/22686__acclivity__oboe-a-440_periodo.wav
+/home/renato/repos/dissertacao/scripts/22686__acclivity__oboe-a-440_periodo.wav
+/home/renato/repos/dissertacao/scripts/22686__acclivity__oboe-a-440.wav
+/home/renato/repos/dissertacao/scripts/secao2.2/22686__acclivity__oboe-a-440_periodo.wav
+/home/renato/repos/dissertacao/scripts/ondaReal.wav

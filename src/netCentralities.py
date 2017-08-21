@@ -1,8 +1,8 @@
 import networkx as x, pylab as p, os, pickle
 
-# tdir = "../../social/data/facebook/"
-# fs = os.listdir(tdir)
-# 
+tdir = "../../social/data/facebook/"
+fs = os.listdir(tdir)
+
 # def readGml(gfile):
 #         with open(gfile) as f:
 #             lines = f.readlines()

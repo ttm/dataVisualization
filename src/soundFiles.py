@@ -5,7 +5,7 @@ fs = open('../data/mwavs.txt', 'r')
 ll = fs.readlines()
 sfiles = []
 for l in ll:
-    ff = l.split(" ")[-1][:-1]
+    ff = l # l.split(" ")[-1][:-1]
     if 'nltk_data' in ff:
         sfiles.append(ff)
 
