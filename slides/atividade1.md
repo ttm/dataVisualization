@@ -93,9 +93,9 @@ faço uma relatoria, em geral na forma de um artigo/ensaio.
 
 * IPython
 
-* Terminal sempre aberto (grep, touch, ls, df -H, du etc)
+* Terminal sempre aberto (grep, find, mkdir, ls, df -H, du etc)
 
-* Software especializados em alguns casos
+* Software especializado em alguns casos
   - Gephi
   - Audacity
 
@@ -231,7 +231,7 @@ com "Sir", "Baron" e com letras acentuadas (é ~ e?)
 
 ** Séries temporais (áudio) **
 
-- $ find / -name "*.wav" -type f -exec ls -l {} \; > data/mwavs.txt
+- $ find / -name "*.wav" -type f > data/mwavs.txt
 
 - Ouvir com aplay e abrir/editar com audacity
 
@@ -271,7 +271,7 @@ jitter, shimmer, etc.
 
 - ver e.g. praat, aubio, massa. Bons para "scriptar".
 
-- usos mais interessantes: correlação com problemas vocais ou mentais
+- usos mais interessantes: detecção de problemas vocais ou mentais
 ou estado de humor. Análise de música.
 
 - numa análise séria, o mesmo procedimento pode dar bons resultados,
@@ -317,6 +317,20 @@ removendo silencios iniciais e finais.
 
 ** Comentários sobre a análise de rede **
 
+- não se confirmou que os conjuntos dos ~50 são disjuntos
+
+- mesmo assim: é esperado que a sobreposição destes conjuntos
+chegue a somente 50%?
+
+- conjuntos menores: os 5 ou 10 participantes com maior centralidade
+
+- o que pode ter dado errado com relação a esta ou a outra análise?
+
+- o tamanho da intersecção pode estar refletindo o comportamento da
+pessoa de quem é a rede?
+
+
+
 
 
 
@@ -335,8 +349,15 @@ removendo silencios iniciais e finais.
 ==============================
 (slide 8)
 
-** Dados artificiais **
+** Outros exemplos **
 
+- Dados artificiais: scripts em ~/repos/gmaneLegacy/texts/`
+
+- Análise de texto para crítica literária (Shakespeare, Bíblia, Joyce)
+   em ~/repos/joyce/*
+
+- Estabilidade topológica e diferenciação textual em redes de interação humana
+   em ~/repos/percolation/* e ~/repos/gmaneLegacy/*
 
 
 
