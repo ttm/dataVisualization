@@ -24,6 +24,9 @@ https://www.timeshighereducation.com/world-university-rankings/2017/world-rankin
 * OECD Better Life Index:
 http://stats.oecd.org/index.aspx?DataSetCode=BLI 
 
+* Nobel prize data:
+https://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/developer/linkeddata-example.html
+
 * Data.World
 
 * DataHub
@@ -34,24 +37,25 @@ http://stats.oecd.org/index.aspx?DataSetCode=BLI
 
 * Scrap THE (above) because I did not find how to export the data.
 
-* Use audio found in the linux system and do some sort of analysis and classification.
+* Use audio found in the linux system and do some sort of analysis and classification. (USED)
 
 * MIDI?
 
 * Make some analysis of networks.
 E.g. see if really there is little sobreposition between
-top closeness and betweenness.
+top closeness and betweenness. (USED)
 
 * Expose the analysis model with Shakespeare and the KJ Bible (exemplified for Joyce).
 
 * Use synthesized data for validating the statistic derived from the KS test.
 
-* Expose the analysis made in my PhD.
+* Expose the analysis in the thesis:
+https://github.com/ttm/thesis/raw/master/thesis-rfabbri.pdf
 
-* Names of Nobel Prizes?
+* Names of Nobel Prizes? (USED)
 
 * Electrocardiogram? EEG?
 
 * Explain a little bit about Vim, IPython, Gephi, Audacity.
 
-* Use linked data and SparQL queries.
+* Use linked data and SparQL queries. (USED a little bit)
