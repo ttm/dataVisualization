@@ -1,7 +1,7 @@
 import numpy as n
 
 # use some real data: substitute the data variable below by something worth analyzing
-data = n.random.random((100,20))
+data = n.random.random((100,20)) # 100 individuals (lines) and 20 attributes (variables)
 
 # take the zscore of each column
 M = n.copy(data)
