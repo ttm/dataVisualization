@@ -1,5 +1,8 @@
 import numpy as n
 
+# use some real data: substitute the data variable below by something worth analyzing
+data = n.random.random((100,20))
+
 # take the zscore of each column
 M = n.copy(data)
 for i in range(M.shape[1]):
