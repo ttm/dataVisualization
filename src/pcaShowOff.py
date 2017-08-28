@@ -1,10 +1,10 @@
 import numpy as n, pylab as p
 
-data = n.random.multivariate_normal([0,0],[[1,.7],[.7,1]],1000)
-
 xx = n.linspace(5,50,1000)
 yy = 3.4*xx-100
 data = n.vstack((xx,yy)).T
+
+data = n.random.multivariate_normal([0,0],[[1,.7],[.7,1]],1000)
 
 # M = data
 

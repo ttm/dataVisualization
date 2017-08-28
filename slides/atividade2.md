@@ -17,7 +17,7 @@ Aula 3
 Atividade 2 - PCA (Principal Component Analysis)
 
 repositório: https://github.com/ttm/dataVisualization
-vídeo no youtube (?????)
+vídeo no youtube (https://youtu.be/RtmbIgoW-eM)
 
 
 

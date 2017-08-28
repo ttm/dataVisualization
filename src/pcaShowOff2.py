@@ -16,7 +16,7 @@ M = n.copy(data)
 for i in range(M.shape[1]):
     if M[:, i].std():
         # M[:, i]=(M[:, i]-M[:, i].mean())
-        M[:, i]=(M[:, i]-M[:, i].mean())/M[:, i].std()
+        M[:, i]=(M[:, i]-M[:, i].mean())#/M[:, i].std()
     else:
         M[:, i]=0.
 
