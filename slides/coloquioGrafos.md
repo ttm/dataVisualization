@@ -2,7 +2,7 @@
 
 
 
-Colóquio sobre teoria espectral em grafos
+Seminários sobre Teoria de Sinais em Grafos
 Prof. Dr. Luis Gustavo Nonato (responsável)
 ICMC/USP
 
