@@ -14,7 +14,7 @@ for i in range(M.shape[1]):
 #### make PCA
 final_dimensions = 2
 
-# convariance matrix:
+# convariance matrixs (draw considerations from it!)
 C=n.cov(M.T,bias=1)
 
 eig_values, eig_vectors = n.linalg.eig(C)
@@ -31,11 +31,13 @@ y=final_data[:,1]
 # if final_dimensions=3 => z=final_data[:,3]
 
 # to understand how the measurements combine into the principal components
+# (draw considerations from it!)
 eig_values_=100*eig_values/n.sum(n.abs(eig_values))
 eig_vectors_=n.array([100*eig_vectors[:,i]/n.abs(eig_vectors[:,i]).sum() for i in range(eig_vectors.shape[1])]).T
 feature_vec_=n.array([100*feature_vec[:,i]/n.abs(feature_vec[:,i]).sum() for i in range(feature_vec.shape[1])]).T
 
 # plot PCA
+# (draw considerations from it!)
 import pylab as p
 p.clf()
 p.plot(x, y, "ro", ms=3)
