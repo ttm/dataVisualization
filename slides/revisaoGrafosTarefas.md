@@ -56,7 +56,7 @@ Aula 6 - breve revisão de redes/grafos, tarefa 3 e revisão da tarefa 2
   - Exemplos de potenciais redes e de redes frequentemente estudadas
   - Redes são grafos com contexto
 
-* Dados relacionais (não numéricos, abstratos?)
+* Dados relacionais (não numéricos, não coordenados, abstratos?)
 
 * Visualização
   - Não há associação trivial a coordenadas XY
@@ -110,7 +110,7 @@ Aula 6 - breve revisão de redes/grafos, tarefa 3 e revisão da tarefa 2
 ==============================
 (slide 4)
 
-**Revisão da tarefa 4: básico e extra**
+**Revisão da tarefa 2: básico e extra**
 
 * Revisão dos pontos básicos e extra
 
