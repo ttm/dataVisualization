@@ -1,0 +1,110 @@
+# Critérios
+
+## Básicos
+1. Entregou o código ou justificou (1)
+2. Entregou o relatório em que trata de PCA sobre os dados das Universidades (TWUR) (1)
+2.1 Tratou os dados coerentemente para a realização do PCA (.5)
+3. Mostrou a matriz de correlação=covariância (.5)
+4. E a interpretou (.5)
+5. Mostrou os autovalores em proporções (1)
+6. e os interpretou (1)
+7. Mostrou a proporção das entradas dos autovetores (1)
+8. E os interpretou (1)
+9. Fez o scatter plot (1.)
+10. Interpretou (1.5)
+
+## Extra:
+(para a nota desta tarefa ou potencialmente serem usados
+em outras avaliações)
+1e. Scatter plot em 3 dimensões (.5)
+2e. Consideração de componentes principais para além das primeiras (.5)
+3e. Análises para além do PCA (.5)
+4e. Transcrição da rotina para outras linguagens (1)
+
+## Penalizações:
+* Não enviou a tarefa da primeira vez (-2 pontos)
+
+
+# Avaliações
+
+## SCC5836
+(*) quando mandou a tarefa e a revisão
+(-) quando só mandou a revisão
+
+7573621*
++ 1. 2. 2.1 3. 4. 5. 7. 9. 1e.- 3e.
+- 6. 8. 10.
+Obs: autovalores mal interpretados: se referem
+às componentes principais, não às medidas.
+total: 10-1-1-1.5+.25+.5
+Nota: 7.25
+
+7782090-
++ 1. 2. 9. 1e.-
+- 2.1 3. 4. 5. 6. 7. 8. 10.
+total: 1+1+1+.25-2
+Nota: 1.25
+
+8578872*
++ 1. 2. 2.1 3. 4. 5. 6. 7. 8. 9. 10. 1e. 2e. 3e.
+total: 10+.5+.5+.5
+Nota: 10, 1.5 extra
+
+10236919-
++ 2. 2.1 5. 6. 7. 8. 9. 10. 1e. 2e. 3e.
+- 1. 3. 4. 
+total: 10-1-.5-.5+.5+.5+.5-2
+Nota: 7.5
+
+10427398*
++ 1. 2. 2.1 3. 4. 5. 6. 7. 8. 9. 10. 1e. 3e.- 4e.-
+OBS: a transcrição para JavaScript é apenas
+de uma parte da rotina, vale metade de 4e.
+A figura final do relatório extra transcende o PCA básico,
+como não foi interpretada, valeu metade de 3e.
+Nota: 10, 1.25 extra
+
+6427021-
++ 2. 5. 7. 9. 
+- 1. 2.1 3. 4. 6. 8. 
+total: 1+1+1+1-2
+Nota: 2
+
+10548942*
++ 1. 2. 2.1 5. 7. 8. 9. 10. 1e. 2e. 3e.
+- 3. 4. 6.
+total: 10-.5-.5-1+.5+.5+.5
+Nota: 9.5
+
+10557084-
++ 1. 2. 2.1 5. 6. 7. 8. 9. 10. 2e. 3e. 4e. 
+- 3. 4. 
+total: 10-.5-.5.2+.5+.5+1
+Nota: 9
+
+10275312*
++ 1. 2. 2.1 5. 6. 9. 1e.- 3e.- 4e.
+- 3. 4. 7. 8. 10.
+total: 10-.5-.5-1-1-1.5+.25+.25+1
+Nota: 7
+
+10557038-
++ 1. 2. 2.1 3. 5. 7. 9. 10. 1e. 3e.
+- 4. 6. 8.
+total: 10-.5-1-1-2+.5+.5
+Nota: 6.5
+
+10462418*
++ 1. 2. 2.1 5. 6. 7. 8. 9. 10. 2e.
+- 3. 4.
+total: 10-.5-.5+.5
+Nota: 9.5
+
+
+
+OBSs:
+* podemos diminuir a penalização de 2 pontos (e.g. para 1 ponto)
+mediante acordo com a Profa. Cristina.
+* Considerei os itens 5. e 7. mesmo quando não mostrados como
+proporções (frações ou percentagens da disperção total)
+
