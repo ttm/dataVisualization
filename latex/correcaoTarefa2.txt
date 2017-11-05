@@ -38,6 +38,12 @@ Há 4 linhas subsequentes:
 total: possui a soma dos valores dos itens
 Nota: possui a nota final
 
+Algumas destas linhas podem estar omitidas
+em casos muito triviais ou que não se apliquem
+(e.g. o aluno fez todos os itens e a linha com - é omitida).
+
+No item pode haver um '-' quando conta só metade da pontuação.
+
 
 # Observações
 * Considerei os itens 5. e 7. mesmo quando não mostrados como
