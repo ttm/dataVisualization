@@ -25,11 +25,28 @@ em outras avaliações)
 * Não enviou a tarefa da primeira vez (-2 pontos)
 
 
+# Notação da correção
+Cada RA recebe um bloco de notação.
+Há um - ao final do RA caso o aluno não tenha
+enviado a tarefa no primeiro prazo.
+Caso tenha enviado em ambas as ocasiões,
+há um *.
+
+Há 4 linhas subsequentes:
++ marca a linha dos itens feitos
+- marca a linha dos itens não feitos
+total: possui a soma dos valores dos itens
+Nota: possui a nota final
+
+
+# Observações
+* Considerei os itens 5. e 7. mesmo quando não mostrados como
+proporções (frações ou percentagens da disperção total)
+
+
 # Avaliações
 
 ## SCC5836
-(*) quando mandou a tarefa e a revisão
-(-) quando só mandou a revisão
 
 7573621*
 + 1. 2. 2.1 3. 4. 5. 7. 9. 1e.- 3e.
@@ -101,10 +118,4 @@ total: 10-.5-.5+.5
 Nota: 9.5
 
 
-
-OBSs:
-* podemos diminuir a penalização de 2 pontos (e.g. para 1 ponto)
-mediante acordo com a Profa. Cristina.
-* Considerei os itens 5. e 7. mesmo quando não mostrados como
-proporções (frações ou percentagens da disperção total)
 
