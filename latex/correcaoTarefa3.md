@@ -182,7 +182,7 @@ OBS: não explicitou por quem foi
 feita a coleta e para quê, por isso
 só 4e.-
 total: 10+.5+.5
-Nota: 100, 1 extra
+Nota: 10, 1 extra
 
 10222991
 + 1. 2. 3.- 4.-
